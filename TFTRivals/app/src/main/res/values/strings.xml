@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TFT Rivals</string>
+
+    <!-- View elements -->
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="player3">Player3</string>
+    <string name="player4">Player4</string>
+    <string name="player5">Player5</string>
+    <string name="player6">Player6</string>
+    <string name="player7">Player7</string>
+    <string name="player8">Player8</string>
+    <string name="titleOpponent">TFT Rivals</string>
+    <string name="delete">Eliminar</string>
+    <string name="back">Deshacer</string>
+    <string name="round">Ronda</string>
+    <string name="roundNumber">0–0</string>
+    <string name="reset">Nueva partida</string>
+    <string name="abandon">Abandonar partida</string>
+    <string name="end">Terminar partida</string>
+    <string name="empezar">COMENZAR\nPARTIDA</string>
+    <string name="usuario">Username</string>
+
+    <!-- Help text -->
+    <string name="welcome">Bienvenido a la partida!</string>
+    <string name="seleccionaPosicion">Selecciona tu posición</string>
+    <string name="partidaIniciada">Partida iniciada</string>
+    <string name="rellenaOponentes">Rellena el resto de oponentes</string>
+    <string name="partidaCurso">Partida en curso</string>
+    <string name="seleccionaEliminado">Selecciona el jugador eliminado</string>
+    <string name="primeroEmpieza">Primero empieza la partida</string>
+    <string name="rondaAnterior">Vuelta a la ronda anterior</string>
+    <string name="noVolver">No se puede volver más para atrás</string>
+    <string name="introduceNombres">Introduce el nombre de los oponentes</string>
+    <string name="noPuedeJugar">No puedes enfrentarte a ese jugador</string>
+    <string name="rellenaTodos">Rellena el nombre de todos los oponentes para poder empezar</string>
+    <string name="nombreOponente">Nombre del oponente %1$d</string>
+    <string name="contraUsuario">No puedes jugar contra ti mismo</string>
+    <string name="ultimoResultado">Resultado en la última partida: %1$s</string>
+
+
+    <!-- Dialog text -->
+    <string name="hasGanado">¡Enhorabuena, has ganado!</string>
+    <string name="acabaPuesto">Has acabado en el puesto %1$d</string>
+    <string name="puestoNoValido">Puesto no válido</string>
+    <string name="vuelveAIntroducir">Vuelve a introducirlo</string>
+    <string name="preguntaPuesto">¿En que puesto has terminado?</string>
+    <string name="preguntaReset">¿Quieres abandonar la partida actual y empezar una nueva?</string>
+    <string name="noGuarda">No se guardará el resultado</string>
+    <string name="noAcabado">La partida no ha acabado</string>
+    <string name="preguntaGuardar">¿Quieres guardarla de todas formas?</string>
+    <string name="preguntaAbandonar">¿Quieres abandonar la partida actual?</string>
+    <string name="eliminarte">Estás a punto de eliminarte</string>
+    <string name="preguntaTerminar">¿Seguro que quieres terminar la partida?</string>
+    <string name="preguntaEliminar">¿Seguro que quieres eliminar a %1$s de la partida?</string>
+    <string name="pideUsername">Introduce tu nombre de usuario</string>
+    <string name="usuarioVacio">Nombre de usuario</string>
+    <string name="rondasAcabadas">Has llegado al número máximo de rondas</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="terminar">TERMINAR</string>
+    <string name="eliminar">ELIMINAR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
